@@ -22,7 +22,7 @@ Arquitetura Orientada a Objetos
 MER: <br>
 <img width="791" height="349" alt="image" src="https://github.com/user-attachments/assets/bc004182-2234-488a-af1c-90313f063943" />
 
-Diagrama de Casos de Uso:
+Diagrama de Casos de Uso:<br>
 <img width="791" height="558" alt="image" src="https://github.com/user-attachments/assets/eceed2ef-feef-42d1-8781-afd7a2e17477" />
 
 Diagrama de Classes: <br>
